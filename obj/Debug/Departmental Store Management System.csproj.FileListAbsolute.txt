@@ -1,0 +1,8 @@
+D:\2nd Semester\Week 5\Departmental Store Management System\bin\Debug\Departmental Store Management System.exe.config
+D:\2nd Semester\Week 5\Departmental Store Management System\bin\Debug\Departmental Store Management System.exe
+D:\2nd Semester\Week 5\Departmental Store Management System\bin\Debug\Departmental Store Management System.pdb
+D:\2nd Semester\Week 5\Departmental Store Management System\obj\Debug\Departmental Store Management System.csproj.AssemblyReference.cache
+D:\2nd Semester\Week 5\Departmental Store Management System\obj\Debug\Departmental Store Management System.csproj.SuggestedBindingRedirects.cache
+D:\2nd Semester\Week 5\Departmental Store Management System\obj\Debug\Departmental Store Management System.csproj.CoreCompileInputs.cache
+D:\2nd Semester\Week 5\Departmental Store Management System\obj\Debug\Departmental Store Management System.exe
+D:\2nd Semester\Week 5\Departmental Store Management System\obj\Debug\Departmental Store Management System.pdb
